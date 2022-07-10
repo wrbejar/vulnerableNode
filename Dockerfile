@@ -1,5 +1,5 @@
 #FROM library/node:6
-FROM ubuntu:xenial
+FROM ubuntu:jammy
 
 MAINTAINER "Daniel Garcia aka (cr0hn)" <cr0hn@cr0hn.com>
 
